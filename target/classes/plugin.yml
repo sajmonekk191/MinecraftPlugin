@@ -1,0 +1,4 @@
+name: DarkCore
+version: '1.0.0'
+main: me.sajmonekk.core.Core
+api-version: 1.18
